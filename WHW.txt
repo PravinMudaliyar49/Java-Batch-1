@@ -1,1 +1,3 @@
-11thMay  ====> Intro, Syntax, Data, Variables and Data types, Types of data-types, Comments, Variable naming, Camel-case.
+11thMay  ====> Intro, Syntax, Data, Variables and Data types, Compiler, Console, Types of data-types, Comments, Variable naming, Camel-case.
+
+12thMay ====> Declaration-Initialization-Re-initialization, Compile vs Runtime error, Arithmetic operators, Relational operator, Assignment operator, Age calculator Question, Concatenation, Operand vs Operator. 
