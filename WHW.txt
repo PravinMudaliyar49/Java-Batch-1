@@ -3,3 +3,5 @@
 12thMay ====> Declaration-Initialization-Re-initialization, Compile vs Runtime error, Arithmetic operators, Relational operator, Assignment operator, Age calculator Question, Concatenation, Operand vs Operator. 
 
 13thMay ====> Age calculator Qs, Taking number input and String input.
+
+14thMay ====> Age calculator with Scanner class, next() vs nextLine().
