@@ -5,3 +5,5 @@
 13thMay ====> Age calculator Qs, Taking number input and String input.
 
 14thMay ====> Age calculator with Scanner class, next() vs nextLine().
+
+15thMay ===> Salary calculator, Bodmas rule and associativity, Floor value for int.  
