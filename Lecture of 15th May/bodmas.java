@@ -8,7 +8,7 @@ public class bodmas {
         int ans = a - b + c;
         System.out.println(ans);
 
-        // Floor value:
+        // Floor value:w
         int x = 10;
         int y = 3;
 

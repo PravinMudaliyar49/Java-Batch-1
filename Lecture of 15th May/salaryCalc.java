@@ -11,15 +11,20 @@ public class salaryCalc {
         int salary = sc.nextInt();
         int increment = sc.nextInt();
 
-        int rupee = salary * increment / 100;
-        int diff = year - 2022;
+        if (year >= 2022) {
+            int rupee = salary * increment / 100;
+            int diff = year - 2022;
 
-        int increase = rupee * diff;
+            int increase = rupee * diff;
 
-        int futureSal = salary + increase;
+            int futureSal = salary + increase;
 
-        System.out.println("Hey, " + name + ", your salary will be " + futureSal + " in the year " + year + ".");
+            System.out.println("Hey, " + name + ", your salary will be " + futureSal + " in the year " + year + ".");
+        } else {
+            System.out.println(202);
+        }
 
+        System.out.println("Salary calculated.");
         sc.close();
     }
 
