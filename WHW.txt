@@ -9,3 +9,5 @@
 15thMay ===> Salary calculator, Bodmas rule and associativity, Floor value for int.
 
 16th May ===> Conditional statements intro, Odd-even program, Negative-positive program.
+
+17th May ===> Rules for conditional statements, .equals(), Grading system question, 
