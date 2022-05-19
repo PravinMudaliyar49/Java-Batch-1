@@ -13,3 +13,5 @@
 17th May ===> Rules for conditional statements, .equals(), Grading system question, 
 
 18th May ===> Relation between 2 numbers, Nested if-else, Greatest amongst two, 
+
+19th May ==> Greatest amongst 3, character input.
