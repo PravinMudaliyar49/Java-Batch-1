@@ -18,4 +18,4 @@
 
 20th May ===> License Program 2, Always use .equals() to check 2 strings.
 
-21st May ===> Calculator project.
+21st May ===> Calculator project. No pdf
