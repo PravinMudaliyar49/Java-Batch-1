@@ -17,3 +17,5 @@
 19th May ==> Greatest amongst 3, character input.
 
 20th May ===> License Program 2, Always use .equals() to check 2 strings.
+
+21st May ===> Calculator project.
