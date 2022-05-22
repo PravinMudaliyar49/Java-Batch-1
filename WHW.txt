@@ -19,3 +19,5 @@
 20th May ===> License Program 2, Always use .equals() to check 2 strings.
 
 21st May ===> Calculator project. No pdf
+
+22nd May ===> Greatest amongst 6.
