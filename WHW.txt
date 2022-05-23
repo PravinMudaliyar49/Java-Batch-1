@@ -21,3 +21,5 @@
 21st May ===> Calculator project. No pdf
 
 22nd May ===> Greatest amongst 6.
+
+23rd May ===> Extract last digit maths, Leap year program
