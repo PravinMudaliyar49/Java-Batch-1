@@ -23,3 +23,5 @@
 22nd May ===> Greatest amongst 6.
 
 23rd May ===> Extract last digit maths, Leap year program
+
+24th May ===> Unary operator, post and pre increment-decrement, Logical operators, Short circuit.
