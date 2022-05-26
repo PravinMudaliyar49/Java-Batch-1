@@ -27,3 +27,5 @@
 24th May ===> Unary operator, post and pre increment-decrement, Logical operators, Short circuit.
 
 25th May ==> Aamir revision, Swap 2 numbers.
+
+26th May ===> Second largest amongst 3.
