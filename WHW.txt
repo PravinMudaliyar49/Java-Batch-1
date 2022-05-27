@@ -29,3 +29,5 @@
 25th May ==> Aamir revision, Swap 2 numbers.
 
 26th May ===> Second largest amongst 3.
+
+27th May ===> Sum of last 2 digits.
