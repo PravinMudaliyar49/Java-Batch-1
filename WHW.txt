@@ -35,3 +35,5 @@
 28th May ===> Control statements 2 (Looping statements), Syntax of for-loop, Stack diagram, Scope of a loop variable, Meaning of an iteration, Print nums in a user given range.
 
 29th May ===> Coverup class.
+
+30th May ===> Decreasing in a range, Exclude the user given number from the range, Exclude 2 user given numbers from the range, Exclude a range from the user given range question completed.
