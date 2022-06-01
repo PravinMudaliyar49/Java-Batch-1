@@ -37,3 +37,7 @@
 29th May ===> Coverup class.
 
 30th May ===> Decreasing in a range, Exclude the user given number from the range, Exclude 2 user given numbers from the range, Exclude a range from the user given range question completed.
+
+31st May ===> Completed exclude a range from the user given range, Mistakes with looping: TLE, etc.
+
+1st June ===> Loop with Scanner, Jump statements (break and continue), Table printing.
