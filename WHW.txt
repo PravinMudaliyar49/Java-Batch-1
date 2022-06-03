@@ -43,3 +43,5 @@
 1st June ===> Loop with Scanner, Jump statements (break and continue), Table printing.
 
 2nd June ===> Sum of N natural numbers.
+
+3rd June ===> While loop, Infinite odd-even, CodeChef intro.
