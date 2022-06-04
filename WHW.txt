@@ -45,3 +45,5 @@
 2nd June ===> Sum of N natural numbers.
 
 3rd June ===> While loop, Infinite odd-even, CodeChef intro.
+
+4th June ===> Infinite license, 
