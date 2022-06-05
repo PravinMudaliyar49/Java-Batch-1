@@ -46,4 +46,6 @@
 
 3rd June ===> While loop, Infinite odd-even, CodeChef intro.
 
-4th June ===> Infinite license, 
+4th June ===> Infinite license.
+
+5th June ===> Count of user given number's digits.
