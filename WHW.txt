@@ -49,3 +49,5 @@
 4th June ===> Infinite license.
 
 5th June ===> Count of user given number's digits.
+
+6th June ===> Sum of all digits, Reverse the number, Sum of odd numbers.
