@@ -53,3 +53,5 @@
 6th June ===> Sum of all digits, Reverse the number, Sum of odd numbers.
 
 7th June ===> Armstrong number, Intro to array.
+
+8th June ===> Coverup class of Armstrong number.
