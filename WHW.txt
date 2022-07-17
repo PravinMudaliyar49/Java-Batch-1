@@ -1,16 +1,16 @@
 11thMay  ====> Intro, Syntax, Data, Variables and Data types, Compiler, Types of data-types, Comments, Camel-case.
 
-12thMay ====> Declaration-Initialization-Re-initialization, Compile vs Runtime error, Relational operator, Assignment operator, Concatenation, Operand vs Operator. 
+12thMay ====> Compile vs Runtime error, Concatenation, Operand vs Operator. 
 
 13thMay ====> Age calculator Qs.
 
-14thMay ====> next() vs nextLine().
+14thMay ====> next() vs nextLine(), Declaration-Initialization-Re-initialization.
 
 15thMay ===> Salary calculator, Bodmas rule and associativity.
 
-16th May ===> Conditional statements intro, Odd-even program, Negative-positive program.
+16th May ===> Conditional statements intro, Odd-even program, Negative-positive program, Relational operator, Assignment operator.
 
-17th May ===> Rules for conditional statements Grading system question, 
+17th May ===> Rules for conditional statements Grading system question, post and pre increment-decrement.
 
 18th May ===> Relation between 2 numbers.
 
@@ -22,7 +22,7 @@
 
 23rd May ===> Extract last digit maths, Leap year program
 
-24th May ===> Unary operator, post and pre increment-decrement, Logical operators, Short circuit.
+24th May ===> Unary operator, Logical operators, Short circuit.
 
 25th May ==> Aamir revision, Swap 2 numbers.
 
@@ -30,9 +30,9 @@
 
 27th May ===> Sum of last 2 digits.
 
-28th May ===> Control statements 2 (Looping statements), Syntax of for-loop, Stack diagram, Scope of a loop variable, Meaning of an iteration, Print nums in a user given range.
+28th May ===> Syntax of for-loop, Stack diagram, Scope of a loop variable, Meaning of an iteration, Print nums in a user given range.
 
-29th May ===> Coverup class.
+29th May ===> Coverup class, Control statements 2 (Looping statements)
 
 30th May ===> Decreasing in a range, Exclude the user given number from the range, Exclude 2 user given numbers from the range, Exclude a range from the user given range question completed.
 
